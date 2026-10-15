@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "NonFiction",
+      "status": "CheckedOut"
+    }
+  ]
+}
